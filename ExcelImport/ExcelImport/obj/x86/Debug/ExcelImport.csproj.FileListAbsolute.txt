@@ -1,5 +1,0 @@
-D:\Impinge Data\ExcelImport\ExcelImport\ExcelImport\bin\Debug\ExcelImport.exe
-D:\Impinge Data\ExcelImport\ExcelImport\ExcelImport\bin\Debug\ExcelImport.pdb
-D:\Impinge Data\ExcelImport\ExcelImport\ExcelImport\obj\x86\Debug\ExcelImport.exe
-D:\Impinge Data\ExcelImport\ExcelImport\ExcelImport\obj\x86\Debug\ExcelImport.pdb
-D:\Impinge Data\ExcelImport\ExcelImport\ExcelImport\bin\Debug\ExcelImport.exe.config
